@@ -14,14 +14,14 @@ Phase 1:
                         - photos
                         - history/facts
                     - ask whether user would like recipes to be presented with liquid oz measurements or mL
-        - create `index.html`
-            - to include:
-                - drop down menu
+        <!-- - create `index.html` -->
+            <!-- - to include: -->
+                <!-- - drop down menu
                     - recipe discovery
                     - favorites
                     - 'My Bar'
                     - search
-                    - profile
+                    - profile -->
                 - get started button
         - create `choices.html`
             -to include:
