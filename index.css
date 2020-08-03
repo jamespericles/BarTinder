@@ -8,6 +8,10 @@
 }
 
 .title,
+.subtitle,
+.tabs,
+.container,
+.title,
 .hero-foot {
-  color: white;
+  color: white !important;
 }
