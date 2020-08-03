@@ -6,3 +6,11 @@
   background-size: cover;
   position: relative;
 }
+
+.title,
+.subtitle,
+.tabbed,
+.title,
+.hero-foot {
+  color: white !important;
+}
